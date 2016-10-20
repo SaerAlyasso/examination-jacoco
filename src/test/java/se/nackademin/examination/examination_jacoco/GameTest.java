@@ -28,6 +28,7 @@ public class GameTest {
 		game.run(values);
 		System.setOut(originalOut);
 		assertTrue(out.toString().contains("Kajsa"));
+	
 	}
 	
 	
